@@ -30,7 +30,6 @@ private:
     Ui::Timer *ui;
     // integers
     int screen_width, screen_height, frame_width, frame_height;
-    int task_timer;
     // QPoint for moving QWidgets
     QPoint oldPos;
     //QTimer
