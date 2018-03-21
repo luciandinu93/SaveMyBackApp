@@ -5,4 +5,4 @@ This is WORK IN PROGRESS. Any help is welcome.
 
 I am using QtCreator and C++ programming language for this project.
 
-![alt text](http://url/to/img.png)
+![alt text](https://rawgithubusercontent.com/luciandinu93/SaveMyBackApp/master/src/img/APP.PNG)
